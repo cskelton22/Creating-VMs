@@ -1,2 +1,4 @@
 # Creating-VMs
-Project consists of a tutorial on how a user can create a virtual machine using an environment called Azure. 
+
+<h2>Description</h2>
+Project consists of a simple tutorial on how users can create and connect to a virtual machine using an environment called Microsoft Azure. 
