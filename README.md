@@ -65,6 +65,7 @@ First, create a free Microsoft Azure account before starting this project.
 - In this video, I will be demonstrating on how to connect to your virtual machine by using the public IP address given in Azure.
 https://www.loom.com/share/9a38df05ae254e3c9813a50d71e01f6b?sid=230a99a2-f94b-4b6b-b373-18f95cd4f091
 
+- Once your connected and able to browse on your virtual machine, you're good to go !
 
 
 
